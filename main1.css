@@ -1,0 +1,124 @@
+body{
+    background-color: whitesmoke;
+}
+.block{
+    width: 3000px;
+    height: 600px;
+    border: 1px solid grey;
+    background-color: grey;
+    position: absolute;
+    left: 0;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    position: relative;
+    color: white;
+    right: 500px;
+    text-align: center;
+    font-style: normal;
+}
+img{
+    width: 50px;
+}
+h2{
+    position: relative;
+    color: white;
+    right: 500px;
+}
+button {
+    border: 20px solid dimgray;
+    background-color: dimgray;
+    border-radius: 30px;
+    position: relative;
+    color: white;
+    right: 500px;
+    font-size: 20px;
+}
+.barno{
+    width: 400px;
+    height: 500px;
+    position: relative;
+    bottom: -400px;
+    left: 200px;
+    border: 1px solid white;
+    background-color: white;
+    display: inline-block;
+}
+.diyora{
+    width: 200px;
+    position: absolute;
+    left: 30px;
+}
+h4{
+    color: grey;
+    position: absolute;
+    left: 30px;
+    top: 200px;
+    font-size: 20px;
+}
+.nasiba{
+    position: absolute;
+    right:60px ;
+    top: 170px;
+    font-size: 30px;
+    color: grey;
+}
+.onrab{
+    width: 400px;
+    height: 500px;
+    position: relative;
+    bottom: -400px;
+    left: 400px;
+    border: 1px solid white;
+    background-color: white;
+    display: inline-block;
+}
+.aroyid{
+    width: 200px;
+    position: absolute;
+    left: 30px;
+}
+.gg{
+    color: grey;
+    position: absolute;
+    left: 30px;
+    top: 200px;
+    font-size: 20px;
+}
+.abisan{
+    position: absolute;
+    right:60px ;
+    top: 170px;
+    font-size: 30px;
+    color: grey;
+}
+.babo{
+    width: 400px;
+    height: 500px;
+    position: relative;
+    bottom: -0px;
+    left: 600px;
+    border: 1px solid white;
+    background-color: white;
+    display: inline-block;
+}
+.doda{
+    width: 180px;
+    position: absolute;
+    left: 50px;
+}
+.uu{
+    color: grey;
+    position: absolute;
+    left: 30px;
+    top: 220px;
+    font-size: 20px;
+}
+.nana{
+    position: absolute;
+    left:90px ;
+    top: 180px;
+    font-size: 30px;
+    color: grey;
+}
